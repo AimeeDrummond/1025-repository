@@ -1,0 +1,63 @@
+Hardware
+ Hard Drives and Memory 
+
+A)In addition to the chapter reading, review the article: Hard Disk Performance and explain (under the Hard Drives heading): the difference between latency and transfer rates in the performance of a hard drive.
+   
+   Latency is more easily explained as the amount of time it takes to actually find the data located on the disk while the transfer is how fast that data can be moved. The key difference between these two is that latency let's the data stay where it is, while transfer does exactly what it implies. It is moving the data from point a to point b.
+   
+B) -In addition to the chapter reading, review the article: Solid State Hard Drives and explain (also under the Hard Drives heading): how a solid state (SSD) hard drive is different from a traditional hard drive.
+
+  While they both serve the same purpose, the way they do it is completely different. While traditional hard disk drives store their data on a disk, rotate and find the data to export, solid state drives use something called solid state memory. Think of a flash drive for example, they don't exatly have room for a disk yet they store memory. This is an example of a solid state drive.
+  
+C)In addition to the chapter reading, watch the video: RAM Explained - Random Access Memory and explain (under the heading) 
+ Why does increasing RAM make the computer run faster? 
+ Ram allows the computer to increase it's data transfer to other parts of the computer.
+
+The difference between 64 and 32 bit data paths.
+It is the differentiation of the amount of access that they have access to. If you want less, go with 32 bit, if you need more go to 64 bit.
+
+ 
+
+ 
+
+Create the following heading in the lab readme.md file: Hardware (unless you already have it from a previous module) 
+
+ 
+
+Watch: How a CPU Works 
+ 
+
+Create the following heading in the lab readme.md file below Hardware: ALU and the Control Unit 
+
+At about the 10 minute mark in the video there is a discussion of the control unit and ALU: Explain the interaction of the control unit and ALU in the CPU 
+ 
+
+Watch: CPU, Memory, Input & Output 
+ 
+
+Example: You are using the self-check-out at the grocery store.  Create the following heading in the lab readme.md file below Hardware: CPU, Input & Output 
+ 
+
+Identify how the example addresses each of the components: CPU, Input and Output 
+ 
+
+Review: Logic Gates and Circuits 
+ 
+
+Create the following heading in the lab readme.md file below Hardware: Logic Gates and Circuits. Explain what is meant by a truth table and apply your knowledge to a NAND gate.  How does the NAND gate truth table compare to that of an AND gate? 
+ 
+
+IEEE 
+ 
+
+Visit:  https://www.ieee.org/about/ieee-history.html  to read about IEEE 
+ 
+
+Review pages 10-11 of the following file:  
+
+<<EAD1e.pdf>>
+Review: https://www.ibm.com/watson/assets/duo/pdf/everydayethics.pdf 
+ 
+
+Create the following heading in the lab readme.md file below Hardware: IEEE - Ethically Aligned Design. Explain the purpose of IEEE and the importance of ethics in device design 
+ 
