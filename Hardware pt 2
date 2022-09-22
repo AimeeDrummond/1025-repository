@@ -1,0 +1,43 @@
+# 1025-repositorydule you will further explore hardware components, circuits and logic and the impact of IEEE on hardware development. 
+Create the following heading in the lab readme.md file: Hardware (unless you already have it from a previous module) 
+Watch: How a CPU Works 
+ Create the following heading in the lab readme.md file below Hardware: ALU and the Control Unit 
+At about the 10 minute mark in the video there is a discussion of the control unit and ALU: Explain the interaction of the control unit and ALU in the CPU
+
+The control unit acts as a kind of manager for the ALU. Without the control unit, the ALU would not know what kind of operation to preform when it recieves inputs. 
+
+Watch: CPU, Memory, Input & Output 
+ Example: You are using the self-check-out at the grocery store.  Create the following heading in the lab readme.md file below Hardware:
+ CPU, Input & Output 
+ Identify how the example addresses each of the components: CPU, Input and Output 
+
+Using the self checkout can explain all three of these concepts as follows:
+ The input would be the actual scanning of items.
+ The CPU would be the register understanding that input and storing that input.
+ The output would be the screen displaying that previously scanned item.
+
+Review: Logic Gates and Circuits 
+ Create the following heading in the lab readme.md file below Hardware: 
+ Logic Gates and Circuits. 
+ Explain what is meant by a truth table and apply your knowledge to a NAND gate.  How does the NAND gate truth table compare to that of an AND gate? 
+
+A truth table is the set of rules that the logic gate must follow. In the case of a NAND gate, this means that the NAND gate must follow the true/false outouts that match with it's coressponding inputs.
+ NAND gates are the complete opposite of AND gates. AND gates would take one true, one false and output a false as FALSE in this case is prioritized. Think about punnent
+ squares and how dominant and recessive genes work. In the case of AND gates, FALSE is the dominant gene. NAND gates function a little differently, while TRUE is
+ the dominant gene, two truths make a false and two false make a truth. 
+
+IEEE 
+ Visit:  https://www.ieee.org/about/ieee-history.html  to read about IEEE 
+ Review pages 10-11 of the following file:  
+<<EAD1e.pdf>>
+Review: https://www.ibm.com/watson/assets/duo/pdf/everydayethics.pdf 
+ Create the following heading in the lab readme.md file below Hardware: IEEE - Ethically Aligned Design. 
+ Explain the purpose of IEEE and the importance of ethics in device design 
+
+IEEE helps to set the ethical standards of todays technologies. Without ethics, things could be a lot worse. For example, say a factory wants to use
+automatic conveyorbelts and arms to increase production. However, these arms and bets were not produced with safety or humans in mind so an accident occurs that 
+could have been prevented if ethics had been factored into the equation. 
+ 
+
+
+ 
