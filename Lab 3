@@ -1,1 +1,63 @@
-#Executive summary
+# Executive summary
+Within this lab I aim to explain software, Virtualization, Python, careers in IT and the paths availble to pursue this Field of work. The lab will go into detail about
+the previously listed topics to ensure an understanding of said topics.
+
+# Software
+  A)
+  In software, there are two major components that hold major relevance: Operating systems and Application software. To elaborate further let's use examples to break it 
+  down. We can think of the operating systems as a level of a pyramid. Without the operating systems, the application software cannot work. The base of this pyramid 
+  runs all the levels above. The base being the hardware and the top being you the user. The operating system (OS) helps the user (a presumed programmer for this example) 
+  actually write code. Think of a computer or laptop. A common question that will be asked is what OS you are using. And nearly everytime you will receive the response 
+  "Windows". Windows does all kinds of things (Just check your task manager). You'll see things like "Desktop Window Manager" or "Service host...". This is the OS
+  communicating with the hardware (things like your hard-drive and ram) or displaying all the things you see on the screen. It essentially provides the playground that
+  you can build on. Application software is the "Other-Half" of your Software. It is something that does not come with the computer upon start-up. Things like web-browers
+  or any other application on the PC that does not contribute to base hardware functions. Applications would also include whatever code you write! There is also a sub-
+  Catagory of software called "Utility-Software". This is any program that allows you to modify the computer in some way. (Anti-Malware programs ect.)
+  We can look to ERP as a staple application software. To explain, it essentially acts as a central database that all employees granted access could use whatever data
+  was implemented. It is now a concept used by many programming companies (Including Microsoft.)
+  
+  B)
+    We must also cover virtualization vs Cloud computing. In short, lets imagine you have three boxes. Cloud computing completely circumvets you needing to use these boxes
+    at all and instead pay someone else to keep all the stuff you would have put in those boxes instead. Virtualization allows you to use your boxes with more efficientcy.
+    Rather than using all three partially, you can just fill the one will all your stuff using this technique while keeping all your stuff sorted.
+    
+    # Virtualization
+    Expanding upon our last topic, we know that Virtualization allows you to use a server to an increased capacity. Server being our boxes. What Virtualization aims to do
+    is allow you to free up some servers so you can use those newly-freed servers for other purposes. Hypervisors play a important role in keeping the physical separation 
+    resources being used in your hardware. They act as a kind of divisor in the box.
+    
+    # Python
+    Python can make great use of Psudo-Code to help ensure it's quality. Psudo-Code is exactly what it sounds like. It is code that is not run through but rather acts
+    as a rough draft. It can be used to theoritically proof and run over code before it's implementation into whatever application that the user plans on making. This
+    can be cruital as Python is a non-interpited language. Other codes like C# use a complier to translate the code into binary so that the computer understands how to
+    use what the programmer has instructed. Meanwhile Python does not need to be translated to be run.
+    
+    # Career exploration
+   ### Collegecentral
+   In exploring the College central website, I have found a plethora of programming postions currently availible. As I had suspected when registering for my degree, 
+   Computer programming and development is still an up and comming field. I was even surpised to find that there are a good handful of python specific jobs!
+    In accourdance with my findings for the Bureau of labour statistics, The lowest salaries that anyone in IT can attain would be 57,000$ a year. As I suspected it
+    was for a tech support position however that does not de-legitimize just how impressive the salary can be if one applies themselves to this field.
+   ### Certifications
+   Throughout my exploration of WebSecurity and it's subsequent certifications, I found that I was wildly unprepared for what the exams had in store. It truly threw me
+   into the deep end of networking security and all of it's faccets.
+   Out of all of Tri-c's IT certificates, the Post-Degree cert I am interested in is the .NET programming certificate as I understand in the future I may want to 
+   open my horizons to all availible doors. In the IT world to my limited understanding, it can be difficult to get your feet under you and find a good place to start.
+   Networking can be a fantastic jumping off point and I believe that this certificated could help me do that.
+   ### Co-ops/Interships
+   To become Co-op ready, one must do the following:
+   Sign up for "Handshake" and scheduel an appointment with a career coach
+   Create and upload an approved final resume
+   Find the right positions for you
+   Get hired by an applied to employer and sign the Cooperative Education Agreement form
+   ### Industry Associations / Student Organizations
+   The CCDC is a competition that aims to help students of higher education build their CyberSecurity skills and assess their abilities of understanding and protecting
+   on a corporate level. It is more or less a test for those who sign up. I believe this is a fantastic way to prepare someome who wishes to be apart of networking in
+   IT as it would simulate a true environment that this degree aims to educate and prepare you for. Think of it as a practical application of the skills that are taught.
+   
+   # Conclusion
+   In going through this lab I have learned quite a few things. One of which that sticks out the most is how python coding has so many availible postitions on a legitimate
+   level. I suppose that I had pre-conceived notions about the language and how basic the syntax for that language is and thusly based it's relevance/importance upon that 
+   simplicity. I guess I had strongly misjudged and this experience taught me to open my horizons in terms of IT and just how little I truly know. It very much feels like
+   the more I learn about the field, the more I realize just how little I actually understand. It is one thing to know, it is another to understand.
+    
