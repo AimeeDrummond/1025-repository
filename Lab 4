@@ -1,0 +1,47 @@
+#Executive summary
+Within this lab, I set out to explore, learn and understand the very basics of coding in python. Utilizing IDLE we learn how to tell the difference between the shell
+and file editor, utilze basic coding principles such as data types and functions and understanding images and file compression. All of this through the method of 
+practice and practical learning. All of the practical learning can be found throughout the lab via the corresponding uploaded images.
+
+###Python IDLE
+While both the file editor and the Interactive shell look very similar, you should be able to tell the difference between the two using the >>> arrows at the bottom when
+booting up IDLE. This is the interactive shell.The File editor is what you use to write the code, while the interactive shell is used to run the code.
+
+#####Code Examples
+i) A variable is something that can be used in code to store data. For example if you create the variable spam and it stores numbers.
+ii) An assigment statement is what is used to assign objects to names. For example 'Spam = 2'. 
+iii)A function in python for example could be sited as 'Print' or 'len'. You also have the ability to create functions and call upon them later
+iv) An example of three data types in python can be listed as String (Letters), Interger(Whole numbers '1,2,3..') and float(3.14,7,8374,....).
+
+###Graphics
+
+A) Raster vs vector
+Raster graphics/ images are made up of hundreds to even millions of pixels. These kinds of images are found nearly everywhere and are super useful. Though if you are to
+'Zoom in' on these images, they loose quality. Vector on the other hand utilizes geometry so that you can zoom in on the image and never loose quality. Raster would
+be better to use for example on an image you know will not be further zoomed in on or edited. Something like a still image utilized one time on a poster being mass printed.
+Vector is far more useful in something like animation for cartoons or the professional work place.
+
+B) Lossless vs. Lossy Compression
+Lossless file compression means that when you compress the file, you loose none of the data. Meanwhile Lossy compression saves the file at it's new  size and looses the
+data was 'cut'. This matters a ton for developers depending on what the user should see and what the developer wants them to see. For example if the dev wants all the 
+images on their website to be clean, lossless compression will ensure the quality of images are maintained. However it increases how hard the site runs on the device.
+
+C) File formats
+There are three main types of image file formats. The most familiar of which are GIFS. No matter how you pronounce it, the preforms the same thing. This is an image file
+that can display a moving/ animated image. A Jpeg is a kind of image file that uses Loosy image compression to make smaller images. This means that Jpegs lose quality. 
+Lastly, PNGs are a lossless imaging format that was initally made to replace GIFs but ultimately never happened.
+
+###File properties
+i) As per the assignment, I created a logo for a fictional company called 0Ping (I do not have a great talent for names). The idea behind this logo is to create
+an internet company that provides a service so good, you average 0Ping. Only 7 layers were utilize to create this logo.
+
+ii)When opening this file, it reports using 132 KB opening with Visual studio from microsoft. A better application to open this file with would most likely be the site
+it came from as I do not personally own any vectoring software. However if we are talking all hypotheticals then using Adobe Illustrator would be a fantastic alternative.
+
+
+#Conclusion
+To summarize, this lab has been more practical in understanding the theory than any other lab thus far. I learned how to make directories using the CMD shell, the very
+basics of the syntax for python and python coding, and how vectoring graphics work. I had no idea there was so much that went into the graphics and how they function
+not just on the websites they are displayed on, but how your computer uses these files and stores them. I must say I may use the vectoring site far more often for my 
+own personal use just for other projects in the future. In short, this lab has been a fantastic learning experience.
+
