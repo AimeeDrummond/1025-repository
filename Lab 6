@@ -1,5 +1,24 @@
+#Executive summary
+
+
 #Internet Architecture 
 ### Internet Protocol
 An Ip adresss is like a license plate for every computer connected to the internet. IPv4 is the older and unallocated versions of IP's while IPv6 is the newer and allocated
 versions of Ip'S that we use today.
 ICANN is the corperation that manages said IP's, both IPv4 and IPv6.
+
+###TCP/IP
+TCP is the protocols with which data is transfered over networks and devices.
+We can imagine the client -server model like a phone call, one or the other (usually the client) "Calls" the server and the server responds.
+Layers are very important for changing this technology as it allows for the opportunity for improvement. Delegating specific tasks to layers allows for the program
+to be more easily modified and improved.
+
+###Internet security
+HTTP is what we all use to access the internet. It supports the client server model by the client asking the HTTP to display the requested object, checking the server
+for that information and returning the requested object.
+Http uses an encryption protocol in order to protect the information and encrypt communication using the method known as TLS.
+
+###Securing your web-browser
+There are many reasons you should protect your web-browser. Many malicious codes exist created by black-caps to steal all that you have to offer. They could take
+your IP,Banking information, account information, hold your device hostage and much more for those who go unprotected. For example, Cookies are files from specific websites
+that are used to store information from that website. an unprotected device could have that information stolen. 
