@@ -22,3 +22,31 @@ Http uses an encryption protocol in order to protect the information and encrypt
 There are many reasons you should protect your web-browser. Many malicious codes exist created by black-caps to steal all that you have to offer. They could take
 your IP,Banking information, account information, hold your device hostage and much more for those who go unprotected. For example, Cookies are files from specific websites
 that are used to store information from that website. an unprotected device could have that information stolen. 
+
+###Internet Programming
+Tim Berners-Lee is considered the father of the world wide web. He founded the W3C to ensure that the internet functions to it's fullest potential.
+for example, the web architecture utilizes identifiers, Archtecture principles, Meta formats, Protocols and internationalization in order to fuflill this mission.
+
+
+###HTML5 and CSS  
+For this webpage, I followed the provided guides and information of HTML format in order to have the page function. Once I gained
+an understanding of how pages are formated and understood, I took the liberty of using HTML5 rather than using hexdecimal colors to
+add more color to the page.
+
+###HTML and XML
+There are a few differences between HTML and XML, which include but are not limited to;
+A) XMl is intended to carry data rather than  display data
+B)XML has no predefined tags
+C)XMl files still work with basic structure even if new data is added or removed
+
+#Components of a URL 
+scheme:https
+domain:www.amazon.com
+top level domain:.edu
+default page:no file path provided
+parameters:result of search
+anchor:specific location on a page
+
+(Due to the nature of changing what the image opens with,  ImageProperties cannot be uploaded to the GITHUB lab file. Please contact me if WebPageWithImage cannot be
+seen in the GITHUB lab folder as it appears that the image may have been corrupted.)
+
