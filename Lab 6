@@ -1,5 +1,6 @@
 #Executive summary
-
+In this lab, you will be taken through the basics of internet architecture, in TPC/IP, Internet security, how to secure your web-browser and why, internet programming,HTML
+The construction of a url and some additional information.
 
 #Internet Architecture 
 ### Internet Protocol
@@ -50,3 +51,7 @@ anchor:specific location on a page
 (Due to the nature of changing what the image opens with,  ImageProperties cannot be uploaded to the GITHUB lab file. Please contact me if WebPageWithImage cannot be
 seen in the GITHUB lab folder as it appears that the image may have been corrupted.)
 
+#Conclusion
+After having gone through this lab, I have gained a far better understanding of URLs and what the text does. For the longest time I believed that they were
+far more complex than what I once thought. I understand that I was given a fairly bare bones explination however, I do think I have a far better
+understanding of how they work. I now also understand how IP is more important that I first believed and what it truthfully does.
