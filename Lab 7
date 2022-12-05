@@ -14,3 +14,17 @@ The purpose of a constructor is to define objects an properties. A class is some
 a Class. An object is a specific instance of something, usually but not always a property. Instanating an object from a class is to be using an object outside the class
 it was made in.
 
+#UML
+OMG in uml terms means Object Management Group, A standards company based around UML. Unified modeling lanugage is a kind of visual language based upon building code,
+Architecture and a few other subjects.
+Object--Sammy
+Class--Shark
+Abstraction--Spec kind of shark
+encapsulation--Def of shark
+Inheritance--Swim(Self)
+I matched all of these as such to the best of my ability.
+
+#Conclusion
+As I am taking an Upper level IT class (1050), I can certainly say this lab would have been wonderful weeks ago when we first dove into all of this stuff.
+This lab broke down exactly what I needed to know about classes and I wish I had access to this information sooner. As for UML, I'm uncertain how effective
+sticking to rules will be for me later down the line as I personally do not enjoy limiting my own understanding to conform to others.
