@@ -1,0 +1,16 @@
+#executive summary:
+
+within this lab, we will go over File and folder compression, Object oriented programming in python and lastly UML.
+
+#file compresion
+ The purpose and use of file compression is fairly simple, it is meant to compress a file to save space. Not that any information is lost, it is instead combined to 
+ "save space".If for example you were to compress a jpg, you would loose data if you were to compress as Jpgs are a still image, whereas if you are to compress an SVG,
+ you end up saving space without loosing any data as SVGs are vector images, the way they are made is more or less code rather than a still image. 
+ 
+ #Object oriented programming
+ Methods: Swim, Be Awesome
+Properties: Self,Name,Sammy
+The purpose of a constructor is to define objects an properties. A class is something that contains all the programming. Programming does not typically exist outside
+a Class. An object is a specific instance of something, usually but not always a property. Instanating an object from a class is to be using an object outside the class
+it was made in.
+
