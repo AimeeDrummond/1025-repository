@@ -1,0 +1,59 @@
+### Executive summary
+Within this lab, we will cover Databases, SQL and the implications of information systems to better understand how all of these elements fit in together.
+
+#Data, Information and Knowledge
+###Relational data
+Data is quantitative, Numbers or text without any meaning if not given context. Information is that context. Knowledge is what you do with the data and its 
+given informational context. If we are to use an example to explain these concepts in futher detail, we can site an example.
+
+Say I were to build a database for a company and there are two tables: Customers and Orders
+The Primary key for the Customer table would be a uniquely generated Id Associated with that full name, The orders table will use the order number for that order.
+Both of these numbers will act as "ID's" The foreign key in the orders table would be called Order ID.
+The datatypes of the fields are extremely important as two different data types cannot be directly compared.
+
+#Big Data
+The four "vs" of data are as follows:
+Volume: The amount of data
+Velocity: How fast the data moves
+Variety: The different types of data and its resources
+Veracity: How trust-worthy the data is
+
+The types of tech that have driven the need for big data include but are not limited to:
+Banks
+Facebook (Social medias)
+Cricket websites
+Retail
+Companies
+
+#Structured query language
+RDBMS is basis for all SQL coding. It has to do with data management and it's systems.
+The Primary key between two of the provided tables is OrderID (Of orders) and the foreign key is also called OrderID. The relationship between these two is to better
+define other details specifically geared towards what is in the Orders.
+
+#SQLInjections
+SQL injections are a large security threats as they are a fairly common hacking technique. It is "injecting" malicious code directlyh into the database, via
+webpage input.
+A great way to reduce this risk is to put paramaters around your data.
+
+#Ethical and legal implications
+The AMC Created Ethical codes for Data so that the technology does not circumvent or break the law. For example, you cannot just take someones identity without
+legal recompense. 
+The Code of ethics is far more geared towards what is illegal, AUP is what IS legal and what you can do with data.
+(The AUP of twitter https://help.twitter.com/en/rules-and-policies/twitter-rules#:~:text=Illegal%20or%20certain%20regulated%20goods,of%20regulated%20goods%20or%20services.)
+It essentially forbidds twitter to be used for any illegal activities defined by another link provided in the article.
+
+
+#intellectual property
+The purpose and importance of the WIPO is the forum with which governmental establishments Creat laws about intellectual property laws.
+Copyright is established through Individual Contractors. Copyright though most of the time is a default property of objects or images posted to the internet.
+Going through an Individual contractor to attain a non-inherent copyright can provide better protections for your work. If your SVG is used by a large company, 
+it will be trademarked. This is the more official "Copyrights" used by large companies to secure their creative intellectual properties.
+
+#Information collection
+COPPA protects children and the media they consume. (IE not exposing children to explici content) FERPA allows parents to access their childrens records (typically from
+school systems) and HIPPA protects the privacy of the medical data that patiences have at any medical facility.
+
+#Conclusion
+After looking through all the articles and experimenting with SQL, I've found that perhaps databasing is a valid option for a career path for me. I personally thought
+I would despise the concept of data management however in course of experimenting with it I have seen how well the organization systems can be creatively managed. 
+In refreshing upon all the data protection laws, I have found myself ever greatful to this course in better educating me on how It and it's code can be used.
